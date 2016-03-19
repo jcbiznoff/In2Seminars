@@ -1,9 +1,2 @@
 /testlib/src/main/java/com/example/week4/Coffee.java
-*.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
 /build
-/captures
