@@ -1,9 +1,6 @@
 package com.example.week4;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
-import java.util.concurrent.SynchronousQueue;
 
 /**
  * Created by jaychung on 3/19/16.
@@ -81,9 +78,9 @@ public class Wk4Main {
         String bc = "def";
         String neeAbc = ab + bc;
 
-        Coffee abc = new Coffee();
-        Coffee blackCofee = new Coffee();
-        Coffee something = abc + blackCofee;
+        CoffeeMain abc = new CoffeeMain();
+        CoffeeMain blackCofee = new CoffeeMain();
+        CoffeeMain something = abc + blackCofee;
 
 
         System.out.println("How many cups of espresso? : ");
