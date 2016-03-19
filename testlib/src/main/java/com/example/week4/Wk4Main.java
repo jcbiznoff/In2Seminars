@@ -78,9 +78,9 @@ public class Wk4Main {
         String bc = "def";
         String neeAbc = ab + bc;
 
-        CoffeeMain abc = new CoffeeMain();
-        CoffeeMain blackCofee = new CoffeeMain();
-        CoffeeMain something = abc + blackCofee;
+        Coffee abc = new Coffee();
+        Coffee blackCofee = new Coffee();
+        Coffee something = abc + blackCofee;
 
 
         System.out.println("How many cups of espresso? : ");
